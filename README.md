@@ -1,7 +1,7 @@
 # Spring MVC 4 Hello World Example with XML Configuration, Maven and JSP
 
 ## Guide
-http://hellokoding.com/spring-mvc-4-hello-world-example-with-xml-configuration-maven-and-jsp/
+https://hellokoding.com/spring-mvc-4-hello-world-example-with-xml-configuration-maven-and-jsp/
 
 ## Prerequisites
 - JDK 1.8 or later
